@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e9853f2-0703-4826-98db-1d830ff108ce" name="Changes" comment="Actualizacion">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Markex2002&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Markex2002/2_Daw.git&quot;,
+    &quot;accountId&quot;: &quot;cc3e749e-4e39-4f44-8ab3-d1ac3a493d93&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2YZiGMkAsBivgcgIJPE6EBABxhD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TiendaTest.test11.executor": "Run",
+    "JUnit.TiendaTest.test12.executor": "Run",
+    "JUnit.TiendaTest.test13.executor": "Run",
+    "JUnit.TiendaTest.test14.executor": "Run",
+    "JUnit.TiendaTest.test15.executor": "Run",
+    "JUnit.TiendaTest.test17.executor": "Run",
+    "JUnit.TiendaTest.test20.executor": "Run",
+    "JUnit.TiendaTest.test21.executor": "Run",
+    "JUnit.TiendaTest.test22.executor": "Run",
+    "JUnit.TiendaTest.test23.executor": "Run",
+    "JUnit.TiendaTest.test24.executor": "Run",
+    "JUnit.TiendaTest.test25.executor": "Run",
+    "JUnit.TiendaTest.test26.executor": "Run",
+    "JUnit.TiendaTest.test27.executor": "Run",
+    "JUnit.TiendaTest.test28.executor": "Run",
+    "JUnit.TiendaTest.test29.executor": "Run",
+    "JUnit.TiendaTest.test30.executor": "Run",
+    "JUnit.TiendaTest.test31.executor": "Run",
+    "JUnit.TiendaTest.test32.executor": "Run",
+    "JUnit.TiendaTest.test33.executor": "Run",
+    "JUnit.TiendaTest.test34.executor": "Run",
+    "JUnit.TiendaTest.test35.executor": "Run",
+    "JUnit.TiendaTest.test36.executor": "Run",
+    "JUnit.TiendaTest.test37.executor": "Run",
+    "JUnit.TiendaTest.test38.executor": "Run",
+    "JUnit.TiendaTest.test40.executor": "Run",
+    "JUnit.TiendaTest.test41.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/marcom/Escritorio/2_Daw",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TiendaTest.test40">
+    <configuration name="TiendaTest.test36" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tienda_informatica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvegademijas.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvegademijas.stream.test" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvegademijas.stream.test.TiendaTest" />
+      <option name="METHOD_NAME" value="test36" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiendaTest.test37" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tienda_informatica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvegademijas.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvegademijas.stream.test" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvegademijas.stream.test.TiendaTest" />
+      <option name="METHOD_NAME" value="test37" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiendaTest.test38" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tienda_informatica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvegademijas.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvegademijas.stream.test" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvegademijas.stream.test.TiendaTest" />
+      <option name="METHOD_NAME" value="test38" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiendaTest.test40" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tienda_informatica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvegademijas.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvegademijas.stream.test" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvegademijas.stream.test.TiendaTest" />
+      <option name="METHOD_NAME" value="test40" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiendaTest.test41" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tienda_informatica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.iesvegademijas.stream.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.iesvegademijas.stream.test" />
+      <option name="MAIN_CLASS_NAME" value="org.iesvegademijas.stream.test.TiendaTest" />
+      <option name="METHOD_NAME" value="test41" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tienda-informatica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="tienda-informatica" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TiendaTest.test40" />
+        <item itemvalue="JUnit.TiendaTest.test41" />
+        <item itemvalue="JUnit.TiendaTest.test38" />
+        <item itemvalue="JUnit.TiendaTest.test37" />
+        <item itemvalue="JUnit.TiendaTest.test36" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e9853f2-0703-4826-98db-1d830ff108ce" name="Changes" comment="" />
+      <created>1700739405574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700739405574</updated>
+      <workItem from="1700739406688" duration="58000" />
+      <workItem from="1701691138188" duration="4318000" />
+      <workItem from="1712126305523" duration="8191000" />
+      <workItem from="1712144632077" duration="36000" />
+      <workItem from="1712823590036" duration="452000" />
+      <workItem from="1712824096412" duration="8197000" />
+      <workItem from="1713270377811" duration="22000" />
+      <workItem from="1713335555286" duration="5497000" />
+      <workItem from="1713939861516" duration="6763000" />
+    </task>
+    <task id="LOCAL-00001" summary="Actualizacion">
+      <option name="closed" value="true" />
+      <created>1712144657917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712144657917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Actualizacion">
+      <option name="closed" value="true" />
+      <created>1713351366750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713351366750</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Actualizacion">
+      <option name="closed" value="true" />
+      <created>1713947206241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713947206241</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Actualizacion">
+      <option name="closed" value="true" />
+      <created>1713947416607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713947416607</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Actualizacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion" />
+  </component>
+</project>
